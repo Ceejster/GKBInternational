@@ -1,0 +1,133 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="">
+    <section class="hero main-section" id="hero">
+        <div class="heroOverlay"></div>
+        <div class="banner">
+            <h1>GKB International</h1>
+            <p>Easy and Reliable Sourcing Solutions</p>
+            <div class="row">
+                <!-- Button to Trigger Modal -->
+                <div class="col mb-3">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#quoteModal">
+                        Get Quote
+                    </button>
+                </div>
+
+                <!-- Modal -->
+                <div class="modal fade" id="quoteModal" tabindex="-1" aria-labelledby="quoteModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="quoteModalLabel">Get a Quote</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <form id="quoteForm" method="post" action="/Quote/Submit">
+                                @Html.AntiForgeryToken()
+                                <div class="modal-body">
+                                    <div class="mb-3">
+                                        <label for="name" class="form-label">Your Name</label>
+                                        <input type="text" class="form-control" id="name" name="Name" required>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="email" class="form-label">Email Address</label>
+                                        <input type="email" class="form-control" id="email" name="Email" required>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="message" class="form-label">Message</label>
+                                        <textarea class="form-control" id="message" name="Message" rows="3" required></textarea>
+                                    </div>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                    <button type="submit" class="btn btn-primary">Submit</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section class="col sectionTwo">
+        <h1>This will maybe have all your Home Page info.</h1>
+    </section>
+
+    <section class="col sectionThree">
+        <div class="container my-5">
+            <div class="row g-4 row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3 justify-content-center">
+                <!-- Card 1 Services -->
+                <a asp-controller="Services" asp-action="Index">
+                    <div class="col d-flex justify-content-center">
+                        <div class="flip-card">
+                            <div class="flip-card-inner">
+                                <div class="flip-card-front">
+                                    <img src="/assets/placeholder.png" class="cardImage" alt="Avatar">
+                                </div>
+                                <div class="flip-card-back">
+                                    <h1>Services</h1>
+                                    <ol>
+                                        <li>Supplier Evaluation</li>
+                                        <li>RFP Management</li>
+                                        <li>Contract Negotiations</li>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <!-- Card 2 Portfolio -->
+                <a asp-controller="Portfolio" asp-action="Index">
+                    <div class="col d-flex justify-content-center">
+                        <div class="flip-card">
+                            <div class="flip-card-inner">
+                                <div class="flip-card-front">
+                                    <img src="/assets/placeholder.png" class="cardImage" alt="Avatar">
+                                </div>
+                                <div class="flip-card-back">
+                                    <h1>Portfolio</h1>
+                                    <ol>
+                                        <li>Hotel Furniture</li>
+                                        <li>Baking Equipment</li>
+                                        <li>Vape Products</li>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                <!-- Card 3 About -->
+                <a asp-controller="About" asp-action="Index">
+                    <div class="col d-flex justify-content-center">
+                        <div class="flip-card">
+                            <div class="flip-card-inner">
+                                <div class="flip-card-front">
+                                    <img src="/assets/placeholder.png" class="cardImage" alt="Avatar">
+                                </div>
+                                <div class="flip-card-back">
+                                    <h1>About</h1>
+                                    <ol>
+                                        <li>Reliable Sourcing</li>
+                                        <li>Quality Control</li>
+                                        <li>Customer Support</li>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+
+
+    <section class="col sectionFour">
+        <h1>Actually the info about all your company/ who you are?</h1>
+        <p>Another separate form to ocntact you here if they don't click get a quote up top</p>
+    </section>
+</div>
