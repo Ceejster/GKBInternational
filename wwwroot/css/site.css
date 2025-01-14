@@ -28,7 +28,7 @@ body {
 .hero {
     position: relative;
     background-position: center;
-    height: 50vh; /* Adjusts hero section to half viewport height */
+    height: 100vh; /* Adjusts hero section to half viewport height */
     overflow: hidden;
     background: url("/assets/placeholder.png") center no-repeat;
     background-size: cover;
@@ -57,15 +57,89 @@ body {
 
 /* SECTION 2 */
 
+/* Section background */
+.sectionTwo {
+    background-color: #f2f0ef; /* Light gray for distinction */
+    padding: 40px 20px; /* Add padding for spacing */
+}
+
+/* Header card styles */
+.bg-light {
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+.shadow {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.rounded {
+    border-radius: 10px; /* Rounded corners */
+}
+
+/* Card styles */
+.card {
+    background: #ffffff; /* White background for cards */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    border-radius: 15px; /* Rounded corners */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Hover effect transition */
+}
+
+    /* Card hover effect */
+    .card:hover {
+        transform: translateY(-5px); /* Slight lift on hover */
+        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); /* Darker shadow */
+    }
+
+/* Card title */
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #333; /* Dark text color */
+    margin-bottom: 15px;
+}
+
+/* Card text */
+.card p {
+    color: #555; /* Softer text color */
+    line-height: 1.6; /* Better readability */
+}
+
+
 /* SECTION 3 */
 
 .sectionThree {
-    background-color: dimgray;
 }
 
+/* Card image styling */
 .cardImage {
-    width: 300px;
-    height: 300px;
+    width: 300px; /* Set card image width */
+    height: 300px; /* Set card image height */
+    object-fit: cover; /* Ensures the image covers the area */
+    display: block; /* Avoid inline spacing */
+    border: none; /* No border on images */
+}
+
+/* Card front text overlay */
+.cardFont {
+    color: white; /* White text for visibility */
+    font-size: 2rem; /* Adjust font size */
+    text-align: center; /* Centers text horizontally */
+    position: absolute; /* Positions text over the image */
+    top: 50%; /* Centers vertically */
+    left: 50%; /* Centers horizontally */
+    transform: translate(-50%, -50%); /* Offsets for true centering */
+    margin: 0;
+    z-index: 1; /* Ensures text appears above image */
+}
+
+.flip-card-front {
+    display: flex; /* Enables flexbox for centering */
+    align-items: center; /* Centers items vertically */
+    justify-content: center; /* Centers items horizontally */
+    width: 300px; /* Ensure the width matches your desired size */
+    height: 300px; /* Ensure the height matches your desired size */
+    background-size: cover; /* Ensures the background image covers the area */
+    position: relative; /* Useful for stacking elements if needed */
 }
 
 /* Flip card styles */
@@ -79,6 +153,7 @@ body {
     height: 300px; /* Adjusted to a square aspect ratio */
     perspective: 1000px;
     margin: 10px;
+    will-change: perspective;
 }
 
 /* Card inner container */
@@ -87,8 +162,9 @@ body {
     width: 100%;
     height: 100%;
     text-align: center;
-    transition: transform 0.8s;
     transform-style: preserve-3d;
+    transition: transform 1s;
+    will-change: transform;
 }
 
 /* Hover effect */
@@ -107,8 +183,8 @@ body {
 
 /* Front side style */
 .flip-card-front {
-    background-color: #bbb;
-    color: black;
+    perspective: 1000px;
+    will-change: perspective;
 }
 
 /* Back side style */
@@ -136,5 +212,78 @@ body {
     .row-cols-1 .col {
         max-width: 100%;
         margin: 0 auto;
+    }
+}
+
+/* SECTION FOUR */
+.sectionFour {
+    background-color: #f2f0ef; /* Light gray for distinction */
+}
+
+.aboutHeader {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.aboutImage {
+    width: 40rem; /* Set a fixed width for the image container */
+    height: 25rem; /* Set a fixed height for uniform boxes */
+    display: flex; /* Center the image inside the container if necessary */
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* Ensure the image doesn't overflow the container */
+    margin: 1rem; /* Maintain spacing */
+}
+
+.aboutImage img {
+    width: 100%; /* Make the image width responsive */
+    height: 100%; /* Make the image height responsive */
+    object-fit: cover; /* Ensures the image covers the container without distortion */
+    object-position: center; /* Centers the focal point of the image */
+    display: block; /* Remove inline gaps */
+}
+
+@media (max-width: 768px) {
+    .aboutImage {
+        width: 100%; /* Full width for smaller screens */
+        height: 20rem; /* Adjust height for responsiveness */
+    }
+}
+
+/* Container with a red border around both image and text */
+.textBox {
+    border: 2px solid red; /* Red outline around the image and text */
+    padding: 1rem; /* Space inside the border */
+    display: flex; /* Align image and text side by side */
+    gap: 1rem; /* Space between the image and text */
+    flex-wrap: wrap; /* Ensure responsiveness for smaller screens */
+    margin: 1rem;
+}
+
+/* Ensure the image container is styled */
+.aboutImage {
+    flex: 1; /* Allow image container to take up proportional space */
+    display: flex; /* Center the image within its container */
+    justify-content: center;
+    align-items: center;
+    max-width: 40rem; /* Optional: Set a maximum width for the image container */
+}
+
+    /* Style the image itself */
+    .aboutImage img {
+        width: 100%; /* Scale the image to fit the container */
+        height: auto; /* Maintain the aspect ratio */
+        object-fit: cover; /* Center the image and cover the container */
+    }
+
+/* Text container styling */
+.textBox > .col {
+    flex: 1; /* Allow text to take up proportional space */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .textBox {
+        flex-direction: column; /* Stack image and text on smaller screens */
     }
 }

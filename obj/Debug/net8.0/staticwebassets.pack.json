@@ -5,8 +5,56 @@
       "PackagePath": "staticwebassets\\GKBInternational.b44tpanq7e.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\boxesWarehouse.jpg",
+      "PackagePath": "staticwebassets\\assets\\boxesWarehouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\customerService.jpg",
+      "PackagePath": "staticwebassets\\assets\\customerService.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\deliverySign.jpg",
+      "PackagePath": "staticwebassets\\assets\\deliverySign.jpg"
+    },
+    {
       "Id": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\placeholder.png",
       "PackagePath": "staticwebassets\\assets\\placeholder.png"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\portfolio.jpg",
+      "PackagePath": "staticwebassets\\assets\\portfolio.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\qualityControl.jpg",
+      "PackagePath": "staticwebassets\\assets\\qualityControl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\saveTime.jpg",
+      "PackagePath": "staticwebassets\\assets\\saveTime.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\services.jpg",
+      "PackagePath": "staticwebassets\\assets\\services.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\shippingContainers.jpg",
+      "PackagePath": "staticwebassets\\assets\\shippingContainers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\shippingYard.jpg",
+      "PackagePath": "staticwebassets\\assets\\shippingYard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\stackedContainers.jpg",
+      "PackagePath": "staticwebassets\\assets\\stackedContainers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\supplyChain.jpg",
+      "PackagePath": "staticwebassets\\assets\\supplyChain.jpg"
     },
     {
       "Id": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\css\\site.css",

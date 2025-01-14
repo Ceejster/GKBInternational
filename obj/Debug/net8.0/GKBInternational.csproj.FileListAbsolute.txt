@@ -32,3 +32,4 @@ C:\Users\CjBow\source\repos\GKBInternational\obj\Debug\net8.0\refint\GKBInternat
 C:\Users\CjBow\source\repos\GKBInternational\obj\Debug\net8.0\GKBInternational.pdb
 C:\Users\CjBow\source\repos\GKBInternational\obj\Debug\net8.0\GKBInternational.genruntimeconfig.cache
 C:\Users\CjBow\source\repos\GKBInternational\obj\Debug\net8.0\ref\GKBInternational.dll
+C:\Users\CjBow\source\repos\GKBInternational\obj\Debug\net8.0\GKBInternational.sourcelink.json

@@ -3,6 +3,7 @@
 }
 
 <div class="">
+    <!-- Main image and fast get quote button. All CSS under sectionOne-->
     <section class="hero main-section" id="hero">
         <div class="heroOverlay"></div>
         <div class="banner">
@@ -52,21 +53,62 @@
             </div>
         </div>
     </section>
-
+    <!-- Info cards detailing what to expect when working with GKB. All CSS under sectionTwo-->
     <section class="col sectionTwo">
-        <h1>This will maybe have all your Home Page info.</h1>
-    </section>
+        <div class="container">
+            <!-- Section Header -->
+            <div class="text-center mb-5 p-4 bg-light rounded shadow">
+                <h2 class="section-title">Why Choose GKB International?</h2>
+                <p class="section-description">
+                    At GKB International, we specialize in providing tailored sourcing solutions for your business. Explore what makes us the trusted choice for companies around the globe.
+                </p>
+            </div>
 
+            <hr />
+            <div class="row g-4 row-cols-1 row-cols-md-2">
+                <!-- Card 1 -->
+                <div class="col">
+                    <div class="card h-100 p-3 rounded">
+                        <h3 class="card-title">Discover the right suppliers for your business</h3>
+                        <p>At GKB International, we communicate with verified suppliers and manufacturers across China and Turkey to source the products that meet your specific demands and requirements. Our mission is to build you long-term partnerships with the best suppliers for your business.</p>
+                    </div>
+                </div>
+                <!-- Card 2 -->
+                <div class="col">
+                    <div class="card h-100 p-3 rounded">
+                        <h3 class="card-title">Let Us Handle Your Sourcing Needs</h3>
+                        <p>With years of experience in the sourcing industry and a dedicated team, GKB is the ideal partner for your business. Trust us to handle your sourcing needs efficiently and effectively.</p>
+                    </div>
+                </div>
+                <!-- Card 3 -->
+                <div class="col">
+                    <div class="card h-100 p-3 rounded">
+                        <h3 class="card-title">Easy and Reliable Sourcing Solutions</h3>
+                        <p>With GKB, sourcing high-quality products has never been easier. Let us handle the logistics and shipping while you focus on growing your business.</p>
+                    </div>
+                </div>
+                <!-- Card 4 -->
+                <div class="col">
+                    <div class="card h-100 p-3 rounded">
+                        <h3 class="card-title">What We Offer</h3>
+                        <p>Our team of sourcing experts is dedicated to providing top-quality services to our clients. Let us help you streamline your supply chain and save you time and money with our comprehensive sourcing solutions.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Flip cards outlining what GKB can do. All CSS under sectionThree-->
     <section class="col sectionThree">
         <div class="container my-5">
             <div class="row g-4 row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3 justify-content-center">
                 <!-- Card 1 Services -->
-                <a asp-controller="Services" asp-action="Index">
+                <a asp-controller="Services" asp-action="Index" class="card-link">
                     <div class="col d-flex justify-content-center">
                         <div class="flip-card">
                             <div class="flip-card-inner">
                                 <div class="flip-card-front">
-                                    <img src="/assets/placeholder.png" class="cardImage" alt="Avatar">
+                                    <img src="/assets/services.jpg" alt="Overview of services offered by GKB International" class="cardImage">
+                                    <h1 class="cardFont">Services</h1>
                                 </div>
                                 <div class="flip-card-back">
                                     <h1>Services</h1>
@@ -81,12 +123,13 @@
                     </div>
                 </a>
                 <!-- Card 2 Portfolio -->
-                <a asp-controller="Portfolio" asp-action="Index">
+                <a asp-controller="Portfolio" asp-action="Index" class="card-link">
                     <div class="col d-flex justify-content-center">
                         <div class="flip-card">
                             <div class="flip-card-inner">
                                 <div class="flip-card-front">
-                                    <img src="/assets/placeholder.png" class="cardImage" alt="Avatar">
+                                    <img src="/assets/portfolio.jpg" alt="Examples of completed projects: hotel furniture, baking equipment, vape products" class="cardImage">
+                                    <h1 class="cardFont">Portfolio</h1>
                                 </div>
                                 <div class="flip-card-back">
                                     <h1>Portfolio</h1>
@@ -101,12 +144,13 @@
                     </div>
                 </a>
                 <!-- Card 3 About -->
-                <a asp-controller="About" asp-action="Index">
+                <a asp-controller="About" asp-action="Index" class="card-link">
                     <div class="col d-flex justify-content-center">
                         <div class="flip-card">
                             <div class="flip-card-inner">
                                 <div class="flip-card-front">
-                                    <img src="/assets/placeholder.png" class="cardImage" alt="Avatar">
+                                    <img src="/assets/about.jpg" alt="Learn more about GKB International's expertise and services" class="cardImage">
+                                    <h1 class="cardFont">About</h1>
                                 </div>
                                 <div class="flip-card-back">
                                     <h1>About</h1>
@@ -123,11 +167,93 @@
             </div>
         </div>
     </section>
-
-
-
+    <!-- About GKB International and services they provide. All CSS should be under sectionFour-->
     <section class="col sectionFour">
-        <h1>Actually the info about all your company/ who you are?</h1>
-        <p>Another separate form to ocntact you here if they don't click get a quote up top</p>
+        <div class="container">
+            <div class="col">
+                <h2>What GKB International Does For You</h2>
+            </div>
+            <!-- About Row 1 -->
+            <div class="row textBox">
+                <div class="col aboutImage">
+                    <img src="~/assets/services.jpg" alt="DESCRIBE ACTUAL IMAGE" />
+                </div>
+                <div class="col">
+                    <div class="row">
+                        <h3 class="aboutHeader">EMPOWERING YOUR SUPPLY CHAIN SUCCESS</h3>
+                    </div>
+                    <div class="row">
+                        <p>
+                            At GKB, we specialize in connecting businesses with reliable suppliers and manufacturers in China and Europe. With our extensive network and industry expertise, we streamline the sourcing process, ensuring that our clients receive quality products at competitive prices.
+                            Our commitment to excellence, transparency, and customer satisfaction sets us apart as a trusted partner in navigating the complexities of global sourcing. Let us be your strategic ally in driving success and efficiency in your supply chain operations.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- About Row 2 -->
+            <div class="row textBox">
+                <div class="col">
+                    <div class="row">
+                        <h3 class="aboutHeader">QUALITY CONTROL</h3>
+                    </div>
+                    <div class="row">
+                        <p>
+                            Our experienced team conducts thorough quality control measures before departure to ensure that all products meet government import guidelines and meet your high expectations.
+                        </p>
+                    </div>
+                </div>
+                <div class="col aboutImage">
+                    <img src="~/assets/qualityControl.jpg" alt="DESCRIBE ACTUAL IMAGE" />
+                </div>
+            </div>
+            <!-- About Row 3 -->
+            <div class="row textBox">
+                <div class="col aboutImage">
+                    <img src="~/assets/deliverySign.jpg" alt="DESCRIBE ACTUAL IMAGE" />
+                </div>
+                <div class="col">
+                    <div class="row">
+                        <h3 class="aboutHeader">STREAMLINED PROCESSES AND COST SAVING</h3>
+                    </div>
+                    <div class="row">
+                        <p>
+                            Through our expertise and network, we can find the right suppliers for your needs, negotiate favourable contracts, and ensure efficient delivery.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- About Row 4 -->
+            <div class="row textBox">
+                <div class="col">
+                    <div class="row">
+                        <h3 class="aboutHeader">SAVE TIME, MONEY, AND HASSLE</h3>
+                    </div>
+                    <div class="row">
+                        <p>
+                            At GKB, you’ll have a reliable partner to handle all your sourcing needs from China and Turkey, so you can focus on growing your business.
+                        </p>
+                    </div>
+                </div>
+                <div class="col aboutImage">
+                    <img src="~/assets/saveTime.jpg" alt="DESCRIBE ACTUAL IMAGE" />
+                </div>
+            </div>
+            <!-- About Row 5 -->
+            <div class="row textBox">
+                <div class="col aboutImage">
+                    <img src="~/assets/customerService.jpg" alt="DESCRIBE ACTUAL IMAGE" />
+                </div>
+                <div class="col">
+                    <div class="row">
+                        <h3 class="aboutHeader">EXCEPTIONAL CUSTOMER SERVICE</h3>
+                    </div>
+                    <div class="row">
+                        <p>
+                            We prioritize open communication and personalized support for our clients, building long-lasting relationships and delivering superior service.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 </div>

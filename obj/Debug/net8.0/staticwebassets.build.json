@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qUGzz2exAl0tg1NXLGqsqNQs97JBomvWJBem9sac0rs=",
+  "Hash": "KlIG8ahGXPHnO8c0PXOA937+ax7cw4KDfWI67yteFX0=",
   "Source": "GKBInternational",
   "BasePath": "_content/GKBInternational",
   "Mode": "Default",
@@ -59,6 +59,90 @@
       "OriginalItemSpec": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GKBInternational.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\about.jpg",
+      "SourceId": "GKBInternational",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\",
+      "BasePath": "_content/GKBInternational",
+      "RelativePath": "assets/about#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vm23hnunt3",
+      "Integrity": "6cIgUeIan/mxLXis9pWnC93TI/JYTcXQLSrrJZtErAI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\about.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\boxesWarehouse.jpg",
+      "SourceId": "GKBInternational",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\",
+      "BasePath": "_content/GKBInternational",
+      "RelativePath": "assets/boxesWarehouse#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pm7tcl98ie",
+      "Integrity": "H6SEfInunyvr3TeVnmgQCi2g95ZCbawZ/dyvlPjp7eY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\boxesWarehouse.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\customerService.jpg",
+      "SourceId": "GKBInternational",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\",
+      "BasePath": "_content/GKBInternational",
+      "RelativePath": "assets/customerService#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3cq4wrp9c0",
+      "Integrity": "rWXkOjyR63yzHr1shxEMrMHP6bEzpzv749sSCe+pTXc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\customerService.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\deliverySign.jpg",
+      "SourceId": "GKBInternational",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\",
+      "BasePath": "_content/GKBInternational",
+      "RelativePath": "assets/deliverySign#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kfzuc2sn3b",
+      "Integrity": "IJ3E9cCW55qRdXm1AX2Z/LSMlS5ngnXhs5CFmwc0m7A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\deliverySign.jpg"
+    },
+    {
       "Identity": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\placeholder.png",
       "SourceId": "GKBInternational",
       "SourceType": "Discovered",
@@ -80,6 +164,174 @@
       "OriginalItemSpec": "wwwroot\\assets\\placeholder.png"
     },
     {
+      "Identity": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\portfolio.jpg",
+      "SourceId": "GKBInternational",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\",
+      "BasePath": "_content/GKBInternational",
+      "RelativePath": "assets/portfolio#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jcddbcnx83",
+      "Integrity": "08+HqYjGO9sv2wle9EAqAxEjJll/O1ha8Dq0ayN6Hhk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\portfolio.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\qualityControl.jpg",
+      "SourceId": "GKBInternational",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\",
+      "BasePath": "_content/GKBInternational",
+      "RelativePath": "assets/qualityControl#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r1kvnn0vjn",
+      "Integrity": "wZWu0rslaTrxl/Ep65HoNoKN9q4BTAaxOucY1ES+dW0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\qualityControl.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\saveTime.jpg",
+      "SourceId": "GKBInternational",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\",
+      "BasePath": "_content/GKBInternational",
+      "RelativePath": "assets/saveTime#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yjlyo3xyy0",
+      "Integrity": "YsoYE0YFKhf8XqUMQhDZrRXPMSo28INaQji1+eLMCtU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\saveTime.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\services.jpg",
+      "SourceId": "GKBInternational",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\",
+      "BasePath": "_content/GKBInternational",
+      "RelativePath": "assets/services#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o6toclcdps",
+      "Integrity": "QFbEGslYvDWkNyCAYRMjA5rXgSB0Qmf/RUv97w7hMcA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\services.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\shippingContainers.jpg",
+      "SourceId": "GKBInternational",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\",
+      "BasePath": "_content/GKBInternational",
+      "RelativePath": "assets/shippingContainers#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jz9cedq8ox",
+      "Integrity": "j39/vCGMquE8LC9nX+IgVOKbfr2AD1uhPXcT4a3N5do=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\shippingContainers.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\shippingYard.jpg",
+      "SourceId": "GKBInternational",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\",
+      "BasePath": "_content/GKBInternational",
+      "RelativePath": "assets/shippingYard#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c1if00cqi4",
+      "Integrity": "8Lbbg13ccGz6IaEPwu1jrBbXW/VoKFF/ndvTpK71YpE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\shippingYard.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\stackedContainers.jpg",
+      "SourceId": "GKBInternational",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\",
+      "BasePath": "_content/GKBInternational",
+      "RelativePath": "assets/stackedContainers#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pu1qlaf2fi",
+      "Integrity": "4ZhssRmm3SRAxkJ7TExw2har+iNyv9szSWXkL18H6Rk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\stackedContainers.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\supplyChain.jpg",
+      "SourceId": "GKBInternational",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\",
+      "BasePath": "_content/GKBInternational",
+      "RelativePath": "assets/supplyChain#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlz555wazd",
+      "Integrity": "huOerB0qC6PnhwCg4Srg9veiO9XBQXUJCp+F5CVh18g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\supplyChain.jpg"
+    },
+    {
       "Identity": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\css\\site.css",
       "SourceId": "GKBInternational",
       "SourceType": "Discovered",
@@ -94,8 +346,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6in5wl7mi0",
-      "Integrity": "wnVDjSOP9/eUM+gNW0+W8tCY5nQVaIYg8mkyH6VWIro=",
+      "Fingerprint": "fvutbhrcbr",
+      "Integrity": "dT/TJJuxNJ+TZha/sicW9KQWCMrc+SkaL6rtGnzqMoQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1342,6 +1594,334 @@
   ],
   "Endpoints": [
     {
+      "Route": "assets/about.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\about.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6934420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6cIgUeIan/mxLXis9pWnC93TI/JYTcXQLSrrJZtErAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:32:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6cIgUeIan/mxLXis9pWnC93TI/JYTcXQLSrrJZtErAI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/about.vm23hnunt3.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\about.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6934420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6cIgUeIan/mxLXis9pWnC93TI/JYTcXQLSrrJZtErAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:32:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vm23hnunt3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/about.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6cIgUeIan/mxLXis9pWnC93TI/JYTcXQLSrrJZtErAI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/boxesWarehouse.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\boxesWarehouse.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2204654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H6SEfInunyvr3TeVnmgQCi2g95ZCbawZ/dyvlPjp7eY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:19:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H6SEfInunyvr3TeVnmgQCi2g95ZCbawZ/dyvlPjp7eY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/boxesWarehouse.pm7tcl98ie.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\boxesWarehouse.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2204654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H6SEfInunyvr3TeVnmgQCi2g95ZCbawZ/dyvlPjp7eY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:19:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pm7tcl98ie"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/boxesWarehouse.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H6SEfInunyvr3TeVnmgQCi2g95ZCbawZ/dyvlPjp7eY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/customerService.3cq4wrp9c0.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\customerService.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rWXkOjyR63yzHr1shxEMrMHP6bEzpzv749sSCe+pTXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:30:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3cq4wrp9c0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/customerService.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rWXkOjyR63yzHr1shxEMrMHP6bEzpzv749sSCe+pTXc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/customerService.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\customerService.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rWXkOjyR63yzHr1shxEMrMHP6bEzpzv749sSCe+pTXc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:30:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rWXkOjyR63yzHr1shxEMrMHP6bEzpzv749sSCe+pTXc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/deliverySign.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\deliverySign.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3345382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IJ3E9cCW55qRdXm1AX2Z/LSMlS5ngnXhs5CFmwc0m7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:21:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IJ3E9cCW55qRdXm1AX2Z/LSMlS5ngnXhs5CFmwc0m7A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/deliverySign.kfzuc2sn3b.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\deliverySign.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3345382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IJ3E9cCW55qRdXm1AX2Z/LSMlS5ngnXhs5CFmwc0m7A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:21:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfzuc2sn3b"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/deliverySign.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IJ3E9cCW55qRdXm1AX2Z/LSMlS5ngnXhs5CFmwc0m7A="
+        }
+      ]
+    },
+    {
       "Route": "assets/placeholder.j6n2oxgmb4.png",
       "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\placeholder.png",
       "Selectors": [],
@@ -1424,8 +2004,8 @@
       ]
     },
     {
-      "Route": "css/site.6in5wl7mi0.css",
-      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\css\\site.css",
+      "Route": "assets/portfolio.jcddbcnx83.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\portfolio.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1434,19 +2014,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2678"
+          "Value": "1154354"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"wnVDjSOP9/eUM+gNW0+W8tCY5nQVaIYg8mkyH6VWIro=\""
+          "Value": "\"08+HqYjGO9sv2wle9EAqAxEjJll/O1ha8Dq0ayN6Hhk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 13 Jan 2025 10:49:01 GMT"
+          "Value": "Tue, 14 Jan 2025 13:30:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1456,15 +2036,626 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6in5wl7mi0"
+          "Value": "jcddbcnx83"
         },
         {
           "Name": "label",
-          "Value": "css/site.css"
+          "Value": "assets/portfolio.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wnVDjSOP9/eUM+gNW0+W8tCY5nQVaIYg8mkyH6VWIro="
+          "Value": "sha256-08+HqYjGO9sv2wle9EAqAxEjJll/O1ha8Dq0ayN6Hhk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/portfolio.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\portfolio.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1154354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"08+HqYjGO9sv2wle9EAqAxEjJll/O1ha8Dq0ayN6Hhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:30:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-08+HqYjGO9sv2wle9EAqAxEjJll/O1ha8Dq0ayN6Hhk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/qualityControl.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\qualityControl.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1466961"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wZWu0rslaTrxl/Ep65HoNoKN9q4BTAaxOucY1ES+dW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wZWu0rslaTrxl/Ep65HoNoKN9q4BTAaxOucY1ES+dW0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/qualityControl.r1kvnn0vjn.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\qualityControl.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1466961"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wZWu0rslaTrxl/Ep65HoNoKN9q4BTAaxOucY1ES+dW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:28:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r1kvnn0vjn"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/qualityControl.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wZWu0rslaTrxl/Ep65HoNoKN9q4BTAaxOucY1ES+dW0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/saveTime.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\saveTime.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4182005"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YsoYE0YFKhf8XqUMQhDZrRXPMSo28INaQji1+eLMCtU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:28:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YsoYE0YFKhf8XqUMQhDZrRXPMSo28INaQji1+eLMCtU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/saveTime.yjlyo3xyy0.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\saveTime.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4182005"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YsoYE0YFKhf8XqUMQhDZrRXPMSo28INaQji1+eLMCtU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:28:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yjlyo3xyy0"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/saveTime.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YsoYE0YFKhf8XqUMQhDZrRXPMSo28INaQji1+eLMCtU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/services.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\services.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2649301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QFbEGslYvDWkNyCAYRMjA5rXgSB0Qmf/RUv97w7hMcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:32:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QFbEGslYvDWkNyCAYRMjA5rXgSB0Qmf/RUv97w7hMcA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/services.o6toclcdps.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\services.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2649301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QFbEGslYvDWkNyCAYRMjA5rXgSB0Qmf/RUv97w7hMcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:32:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o6toclcdps"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/services.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QFbEGslYvDWkNyCAYRMjA5rXgSB0Qmf/RUv97w7hMcA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/shippingContainers.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\shippingContainers.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1886237"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j39/vCGMquE8LC9nX+IgVOKbfr2AD1uhPXcT4a3N5do=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j39/vCGMquE8LC9nX+IgVOKbfr2AD1uhPXcT4a3N5do="
+        }
+      ]
+    },
+    {
+      "Route": "assets/shippingContainers.jz9cedq8ox.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\shippingContainers.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1886237"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j39/vCGMquE8LC9nX+IgVOKbfr2AD1uhPXcT4a3N5do=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jz9cedq8ox"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/shippingContainers.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j39/vCGMquE8LC9nX+IgVOKbfr2AD1uhPXcT4a3N5do="
+        }
+      ]
+    },
+    {
+      "Route": "assets/shippingYard.c1if00cqi4.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\shippingYard.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1731180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Lbbg13ccGz6IaEPwu1jrBbXW/VoKFF/ndvTpK71YpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:19:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c1if00cqi4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/shippingYard.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Lbbg13ccGz6IaEPwu1jrBbXW/VoKFF/ndvTpK71YpE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/shippingYard.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\shippingYard.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1731180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Lbbg13ccGz6IaEPwu1jrBbXW/VoKFF/ndvTpK71YpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:19:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Lbbg13ccGz6IaEPwu1jrBbXW/VoKFF/ndvTpK71YpE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/stackedContainers.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\stackedContainers.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1221238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ZhssRmm3SRAxkJ7TExw2har+iNyv9szSWXkL18H6Rk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:19:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ZhssRmm3SRAxkJ7TExw2har+iNyv9szSWXkL18H6Rk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/stackedContainers.pu1qlaf2fi.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\stackedContainers.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1221238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4ZhssRmm3SRAxkJ7TExw2har+iNyv9szSWXkL18H6Rk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:19:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pu1qlaf2fi"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/stackedContainers.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4ZhssRmm3SRAxkJ7TExw2har+iNyv9szSWXkL18H6Rk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/supplyChain.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\supplyChain.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6439084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"huOerB0qC6PnhwCg4Srg9veiO9XBQXUJCp+F5CVh18g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:22:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-huOerB0qC6PnhwCg4Srg9veiO9XBQXUJCp+F5CVh18g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/supplyChain.mlz555wazd.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\assets\\supplyChain.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6439084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"huOerB0qC6PnhwCg4Srg9veiO9XBQXUJCp+F5CVh18g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:22:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlz555wazd"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/supplyChain.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-huOerB0qC6PnhwCg4Srg9veiO9XBQXUJCp+F5CVh18g="
         }
       ]
     },
@@ -1479,7 +2670,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2678"
+          "Value": "7684"
         },
         {
           "Name": "Content-Type",
@@ -1487,11 +2678,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wnVDjSOP9/eUM+gNW0+W8tCY5nQVaIYg8mkyH6VWIro=\""
+          "Value": "\"dT/TJJuxNJ+TZha/sicW9KQWCMrc+SkaL6rtGnzqMoQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 13 Jan 2025 10:49:01 GMT"
+          "Value": "Tue, 14 Jan 2025 13:58:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1501,7 +2692,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wnVDjSOP9/eUM+gNW0+W8tCY5nQVaIYg8mkyH6VWIro="
+          "Value": "sha256-dT/TJJuxNJ+TZha/sicW9KQWCMrc+SkaL6rtGnzqMoQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.fvutbhrcbr.css",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dT/TJJuxNJ+TZha/sicW9KQWCMrc+SkaL6rtGnzqMoQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Jan 2025 13:58:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fvutbhrcbr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dT/TJJuxNJ+TZha/sicW9KQWCMrc+SkaL6rtGnzqMoQ="
         }
       ]
     },

@@ -1,4 +1,16 @@
+wwwroot\assets\about.jpg
+wwwroot\assets\boxesWarehouse.jpg
+wwwroot\assets\customerService.jpg
+wwwroot\assets\deliverySign.jpg
 wwwroot\assets\placeholder.png
+wwwroot\assets\portfolio.jpg
+wwwroot\assets\qualityControl.jpg
+wwwroot\assets\saveTime.jpg
+wwwroot\assets\services.jpg
+wwwroot\assets\shippingContainers.jpg
+wwwroot\assets\shippingYard.jpg
+wwwroot\assets\stackedContainers.jpg
+wwwroot\assets\supplyChain.jpg
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
