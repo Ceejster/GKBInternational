@@ -30,11 +30,15 @@ body {
     background-position: center;
     height: 100vh; /* Adjusts hero section to half viewport height */
     overflow: hidden;
-    background: url("/assets/placeholder.png") center no-repeat;
+    background: url("/assets/boxesWarehouse.jpg") center no-repeat;
     background-size: cover;
     display: flex;
     justify-content: center; /* Centers content horizontally */
     align-items: center; /* Centers content vertically */
+    color: white;
+    text-shadow: 1px 1px 0 black;
+    font
+}
 }
 
 .heroOverlay {
@@ -54,11 +58,78 @@ body {
         background-size: cover; /* Maintain cover effect on small screens */
     }
 }
+                        /* SECTION 2 */
+.features {
+    padding: 3rem 1rem;
+    text-align: center;
+    background-color: #f8f9fa; /* Light background */
+}
 
-/* SECTION 2 */
+.feature-icons {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.icon-box {
+    text-align: center;
+}
+
+    .icon-box img {
+        width: 12rem;
+        height: auto;
+        margin-bottom: 0.5rem;
+    }
+
+    .icon-box h4 {
+        font-size: 1rem;
+        color: #333;
+        margin-top: 0.5rem;
+    }
+
+.cost-savings h2 {
+    font-size: 2rem;
+    color: #343a40; /* Darker text color */
+    margin-bottom: 0.5rem;
+}
+
+.cost-savings p {
+    font-size: 1rem;
+    color: #6c757d; /* Subtle text color */
+    margin-bottom: 2rem;
+}
+
+.stats {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+.stat-box {
+    background-color: #dc3545; /* Red background for stats */
+    color: white;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    width: 120px;
+    text-align: center;
+}
+
+    .stat-box h3 {
+        font-size: 1.5rem;
+        margin: 0.5rem 0;
+    }
+
+    .stat-box p {
+        font-size: 0.9rem;
+        margin: 0;
+    }
+
+
+                        /* SECTION 3 */
 
 /* Section background */
-.sectionTwo {
+.sectionThree {
     background-color: #f2f0ef; /* Light gray for distinction */
     padding: 40px 20px; /* Add padding for spacing */
 }
@@ -76,19 +147,26 @@ body {
     border-radius: 10px; /* Rounded corners */
 }
 
-/* Card styles */
-.card {
-    background: #ffffff; /* White background for cards */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow */
-    border-radius: 15px; /* Rounded corners */
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Hover effect transition */
+.cardHeader {
+    text-align: center;
+    margin-bottom: 1.25rem; /* mb-5 (5 x 0.25rem) */
+    padding: 1rem; /* p-4 */
+    background-color: #f8f9fa; /* bg-light */
+    border-radius: 0.375rem; /* rounded */
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075); /* shadow */
+    margin: 2rem;
 }
 
-    /* Card hover effect */
-    .card:hover {
-        transform: translateY(-5px); /* Slight lift on hover */
-        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); /* Darker shadow */
-    }
+.cardBody {
+    display: flex;
+    flex-direction: column; /* Ensures child elements stack properly */
+    justify-content: space-between; /* Spacing for h-100 */
+    height: 100%; /* h-100 */
+    padding: 1rem; /* p-3 */
+    border-radius: 0.375rem; /* rounded */
+    background-color: #ffffff; /* Default card background */
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075); /* subtle shadow */
+}
 
 /* Card title */
 .card-title {
@@ -105,9 +183,9 @@ body {
 }
 
 
-/* SECTION 3 */
+                    /* SECTION 4 */
 
-.sectionThree {
+.sectionFour {
 }
 
 /* Card image styling */
@@ -215,8 +293,9 @@ body {
     }
 }
 
-/* SECTION FOUR */
-.sectionFour {
+                        /* SECTION 5 */
+
+.sectionFive {
     background-color: #f2f0ef; /* Light gray for distinction */
 }
 

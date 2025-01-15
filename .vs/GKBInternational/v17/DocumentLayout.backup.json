@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|c:\\users\\cjbow\\source\\repos\\gkbinternational\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|c:\\users\\cjbow\\source\\repos\\gkbinternational\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|c:\\users\\cjbow\\source\\repos\\gkbinternational\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|c:\\users\\cjbow\\source\\repos\\gkbinternational\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,18 +42,17 @@
               "RelativeToolTip": "Controllers\\QuoteController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T08:51:30.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T08:51:30.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\Views\\Home\\Index.cshtml*",
               "RelativeToolTip": "Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAALAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-13T08:28:37.232Z",
               "EditorCaption": ""
@@ -68,18 +67,17 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T08:02:35.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T08:02:35.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAANsAAAAAAAAAAAAiwB8BAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-01-13T08:55:03.397Z",
               "EditorCaption": ""
