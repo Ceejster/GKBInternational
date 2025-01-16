@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\GKBInternational.csproj": {}
+    "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\GKBInternational.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\GKBInternational.csproj": {
+    "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\GKBInternational.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\GKBInternational.csproj",
+        "projectUniqueName": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\GKBInternational.csproj",
         "projectName": "GKBInternational",
-        "projectPath": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\GKBInternational.csproj",
+        "projectPath": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\GKBInternational.csproj",
         "packagesPath": "C:\\Users\\CjBow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CjBow\\source\\repos\\GKBInternational\\obj\\",
+        "outputPath": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
