@@ -2,6 +2,8 @@ wwwroot\assets\about.jpg
 wwwroot\assets\boxesWarehouse.jpg
 wwwroot\assets\customerService.jpg
 wwwroot\assets\deliverySign.jpg
+wwwroot\assets\felixstowePort1.jpg
+wwwroot\assets\felixstowePort2.jpg
 wwwroot\assets\placeholder.png
 wwwroot\assets\portfolio.jpg
 wwwroot\assets\qualityControl.jpg

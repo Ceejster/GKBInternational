@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\assets\\deliverySign.jpg"
     },
     {
+      "Id": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\assets\\felixstowePort1.jpg",
+      "PackagePath": "staticwebassets\\assets\\felixstowePort1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\assets\\felixstowePort2.jpg",
+      "PackagePath": "staticwebassets\\assets\\felixstowePort2.jpg"
+    },
+    {
       "Id": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\assets\\placeholder.png",
       "PackagePath": "staticwebassets\\assets\\placeholder.png"
     },

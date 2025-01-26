@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PunRRDqI3X7vZiLa5uB2alxrEGDqY+bDB54Igic3rxQ=",
+  "Hash": "izFhAZzfTiNLmznOrM0G3zrbc3fA+jdHaEVHCUXyoak=",
   "Source": "GKBInternational",
   "BasePath": "_content/GKBInternational",
   "Mode": "Default",
@@ -141,6 +141,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\deliverySign.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\assets\\felixstowePort1.jpg",
+      "SourceId": "GKBInternational",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\",
+      "BasePath": "_content/GKBInternational",
+      "RelativePath": "assets/felixstowePort1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ikj0sg8rj7",
+      "Integrity": "En9gFPXtsiJTA+Aure+99d118ATtnpxodUgXWagJMc4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\felixstowePort1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\assets\\felixstowePort2.jpg",
+      "SourceId": "GKBInternational",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\",
+      "BasePath": "_content/GKBInternational",
+      "RelativePath": "assets/felixstowePort2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iupgk0cqaw",
+      "Integrity": "2rqtSx5pDON+8qB9CTqUAfdVr0cSVMN9fSQQrZmL/uE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\felixstowePort2.jpg"
     },
     {
       "Identity": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\assets\\placeholder.png",
@@ -346,8 +388,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "snqif9ie3e",
-      "Integrity": "eCpPAaZ1hUIYCppf/ffyhX+yQP2qcEQnqZkI5oIvO/c=",
+      "Fingerprint": "a0ntuw374x",
+      "Integrity": "umcD9JJXSXJEaf3/nrCvftN3Vgug5yoL7z95oVVnvTA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1922,6 +1964,170 @@
       ]
     },
     {
+      "Route": "assets/felixstowePort1.ikj0sg8rj7.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\assets\\felixstowePort1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "343157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"En9gFPXtsiJTA+Aure+99d118ATtnpxodUgXWagJMc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ikj0sg8rj7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/felixstowePort1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-En9gFPXtsiJTA+Aure+99d118ATtnpxodUgXWagJMc4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/felixstowePort1.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\assets\\felixstowePort1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "343157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"En9gFPXtsiJTA+Aure+99d118ATtnpxodUgXWagJMc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-En9gFPXtsiJTA+Aure+99d118ATtnpxodUgXWagJMc4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/felixstowePort2.iupgk0cqaw.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\assets\\felixstowePort2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2rqtSx5pDON+8qB9CTqUAfdVr0cSVMN9fSQQrZmL/uE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iupgk0cqaw"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/felixstowePort2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2rqtSx5pDON+8qB9CTqUAfdVr0cSVMN9fSQQrZmL/uE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/felixstowePort2.jpg",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\assets\\felixstowePort2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2rqtSx5pDON+8qB9CTqUAfdVr0cSVMN9fSQQrZmL/uE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:14:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2rqtSx5pDON+8qB9CTqUAfdVr0cSVMN9fSQQrZmL/uE="
+        }
+      ]
+    },
+    {
       "Route": "assets/placeholder.j6n2oxgmb4.png",
       "AssetFile": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\assets\\placeholder.png",
       "Selectors": [],
@@ -2660,6 +2866,51 @@
       ]
     },
     {
+      "Route": "css/site.a0ntuw374x.css",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"umcD9JJXSXJEaf3/nrCvftN3Vgug5yoL7z95oVVnvTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:27:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a0ntuw374x"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-umcD9JJXSXJEaf3/nrCvftN3Vgug5yoL7z95oVVnvTA="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -2670,7 +2921,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7388"
+          "Value": "8109"
         },
         {
           "Name": "Content-Type",
@@ -2678,11 +2929,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eCpPAaZ1hUIYCppf/ffyhX+yQP2qcEQnqZkI5oIvO/c=\""
+          "Value": "\"umcD9JJXSXJEaf3/nrCvftN3Vgug5yoL7z95oVVnvTA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 14:36:19 GMT"
+          "Value": "Sun, 26 Jan 2025 12:27:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2692,52 +2943,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eCpPAaZ1hUIYCppf/ffyhX+yQP2qcEQnqZkI5oIvO/c="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.snqif9ie3e.css",
-      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7388"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eCpPAaZ1hUIYCppf/ffyhX+yQP2qcEQnqZkI5oIvO/c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 14:36:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "snqif9ie3e"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-eCpPAaZ1hUIYCppf/ffyhX+yQP2qcEQnqZkI5oIvO/c="
+          "Value": "sha256-umcD9JJXSXJEaf3/nrCvftN3Vgug5yoL7z95oVVnvTA="
         }
       ]
     },

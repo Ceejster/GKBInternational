@@ -45,8 +45,59 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <section class="contact-section">
         <div class="container">
+            <div class="row">
+                <div class="centerMe">
+                    <h2>Contact Us</h2>
+                </div>
+                <!-- Left Side -->
+                <div class="col-md-4 contact-info">
+                    <h3>Head Office</h3>
+                    <p>123 Business Street, London, UK</p>
+                    <div class="contact-box">
+                        <p><strong>WhatsApp:</strong> +44 20 7946 0958</p>
+                        <p><strong>Phone:</strong> +44 20 7946 0958</p>
+                        <a href="mailto:info@gkbintl.com">info@gkbintl.com</a>
+                    </div>
+                    <div class="social-icons">
+                        <a href="https://linkedin.com" target="_blank"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://facebook.com" target="_blank"><i class="fab fa-facebook"></i></a>
+                        <a href="https://wa.me/4402079460958" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                    </div>
+                </div>
+
+                <!-- Right Side (Form) -->
+                <div class="col-md-8">
+                    <form method="post" action="/Contact/SendEmail" class="contact-form">
+                        @Html.AntiForgeryToken()
+                        <div class="mb-3">
+                            <input type="text" class="form-control" name="Name" placeholder="Full name" required>
+                        </div>
+                        <div class="mb-3">
+                            <input type="text" class="form-control" name="CompanyName" placeholder="Company Name">
+                        </div>
+                        <div class="mb-3">
+                            <input type="email" class="form-control" name="Email" placeholder="Email" required>
+                        </div>
+                        <div class="mb-3">
+                            <input type="tel" class="form-control" name="PhoneNumber" placeholder="Phone Number">
+                        </div>
+                        <div class="mb-3">
+                            <textarea class="form-control" name="Message" rows="4" placeholder="Message" required></textarea>
+                        </div>
+                        <div class="text-end">
+                            <button type="submit" class="btn btn-primary">Send</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <footer class="border-top footer text-muted">
+        <div class="">
             &copy; 2025 - GKBInternational
         </div>
     </footer>
