@@ -30,15 +30,13 @@ body {
     background-position: center;
     height: 100vh; /* Adjusts hero section to half viewport height */
     overflow: hidden;
-    background: url("/assets/boxesWarehouse.jpg") center no-repeat;
+    background: url("/assets/felixstowePort2.jpg") center no-repeat;
     background-size: cover;
     display: flex;
-    justify-content: center; /* Centers content horizontally */
-    align-items: center; /* Centers content vertically */
+    justify-content: end; /* Centers content horizontally */
+    align-items: end; /* Centers content vertically */
     color: white;
     text-shadow: 1px 1px 0 black;
-    font
-}
 }
 
 .heroOverlay {
@@ -50,6 +48,7 @@ body {
 .banner {
     position: absolute;
     text-align: center;
+    margin: 10rem;
 }
 
 /* Optional: for responsive design */
@@ -294,75 +293,20 @@ body {
 }
 
                         /* SECTION 5 */
-
+/* Section background */
 .sectionFive {
     background-color: #f2f0ef; /* Light gray for distinction */
+    padding: 40px 20px; /* Add padding for spacing */
 }
 
-.aboutHeader {
-    text-decoration: underline;
-    font-weight: bold;
+.serviceImage img {
+    max-width: 100%; /* Ensure the image is responsive */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the image within its container */
 }
 
-.aboutImage {
-    width: 40rem; /* Set a fixed width for the image container */
-    height: 25rem; /* Set a fixed height for uniform boxes */
-    display: flex; /* Center the image inside the container if necessary */
-    justify-content: center;
+.offerList {
+    display: flex;
     align-items: center;
-    overflow: hidden; /* Ensure the image doesn't overflow the container */
-    margin: 1rem; /* Maintain spacing */
-}
-
-.aboutImage img {
-    width: 100%; /* Make the image width responsive */
-    height: 100%; /* Make the image height responsive */
-    object-fit: cover; /* Ensures the image covers the container without distortion */
-    object-position: center; /* Centers the focal point of the image */
-    display: block; /* Remove inline gaps */
-}
-
-@media (max-width: 768px) {
-    .aboutImage {
-        width: 100%; /* Full width for smaller screens */
-        height: 20rem; /* Adjust height for responsiveness */
-    }
-}
-
-/* Container with a red border around both image and text */
-.textBox {
-    border: 2px solid red; /* Red outline around the image and text */
-    padding: 1rem; /* Space inside the border */
-    display: flex; /* Align image and text side by side */
-    gap: 1rem; /* Space between the image and text */
-    flex-wrap: wrap; /* Ensure responsiveness for smaller screens */
-    margin: 1rem;
-}
-
-/* Ensure the image container is styled */
-.aboutImage {
-    flex: 1; /* Allow image container to take up proportional space */
-    display: flex; /* Center the image within its container */
-    justify-content: center;
-    align-items: center;
-    max-width: 40rem; /* Optional: Set a maximum width for the image container */
-}
-
-    /* Style the image itself */
-    .aboutImage img {
-        width: 100%; /* Scale the image to fit the container */
-        height: auto; /* Maintain the aspect ratio */
-        object-fit: cover; /* Center the image and cover the container */
-    }
-
-/* Text container styling */
-.textBox > .col {
-    flex: 1; /* Allow text to take up proportional space */
-}
-
-/* Responsive adjustments */
-@media (max-width: 768px) {
-    .textBox {
-        flex-direction: column; /* Stack image and text on smaller screens */
-    }
 }
