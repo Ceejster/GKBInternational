@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "izFhAZzfTiNLmznOrM0G3zrbc3fA+jdHaEVHCUXyoak=",
+  "Hash": "JKRlPhgRQjnK7LbtChUlCvpemUPH6V3tJ7uUDNgx95U=",
   "Source": "GKBInternational",
   "BasePath": "_content/GKBInternational",
   "Mode": "Default",
@@ -388,8 +388,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "a0ntuw374x",
-      "Integrity": "umcD9JJXSXJEaf3/nrCvftN3Vgug5yoL7z95oVVnvTA=",
+      "Fingerprint": "nsgr4dj1w6",
+      "Integrity": "x9X4So9ebxd8k7iok5GQptFpaWxQnGZvhIE7wytGXx4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2866,51 +2866,6 @@
       ]
     },
     {
-      "Route": "css/site.a0ntuw374x.css",
-      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8109"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"umcD9JJXSXJEaf3/nrCvftN3Vgug5yoL7z95oVVnvTA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 12:27:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "a0ntuw374x"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-umcD9JJXSXJEaf3/nrCvftN3Vgug5yoL7z95oVVnvTA="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -2921,7 +2876,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8109"
+          "Value": "8236"
         },
         {
           "Name": "Content-Type",
@@ -2929,11 +2884,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"umcD9JJXSXJEaf3/nrCvftN3Vgug5yoL7z95oVVnvTA=\""
+          "Value": "\"x9X4So9ebxd8k7iok5GQptFpaWxQnGZvhIE7wytGXx4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 12:27:07 GMT"
+          "Value": "Sun, 26 Jan 2025 12:33:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2943,7 +2898,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-umcD9JJXSXJEaf3/nrCvftN3Vgug5yoL7z95oVVnvTA="
+          "Value": "sha256-x9X4So9ebxd8k7iok5GQptFpaWxQnGZvhIE7wytGXx4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.nsgr4dj1w6.css",
+      "AssetFile": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x9X4So9ebxd8k7iok5GQptFpaWxQnGZvhIE7wytGXx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 12:33:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nsgr4dj1w6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x9X4So9ebxd8k7iok5GQptFpaWxQnGZvhIE7wytGXx4="
         }
       ]
     },

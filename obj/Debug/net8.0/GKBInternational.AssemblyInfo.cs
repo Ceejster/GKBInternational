@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GKBInternational")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78c0b62592edfaed4ac23477948ed35b74b869df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2278f7b5a3c91423784ac1a9215ab03113f86d4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GKBInternational")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GKBInternational")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
