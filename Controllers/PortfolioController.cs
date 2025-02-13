@@ -8,5 +8,24 @@ namespace GKBInternational.Controllers
         {
             return View();
         }
+        public IActionResult Electronics()
+        {
+            return View("Products/Electronics"); // Specify subfolder
+        }
+
+        public IActionResult Construction()
+        {
+            return View("Products/Construction");
+        }
+
+        public IActionResult Machinery()
+        {
+            return View("Products/Machinery");
+        }
+
+        public IActionResult RawMaterials()
+        {
+            return View("Products/RawMaterials");
+        }
     }
 }

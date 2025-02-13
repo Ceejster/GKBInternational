@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|c:\\users\\cjbow\\source\\repos\\ceejster\\gkbinternational\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|c:\\users\\cjbow\\source\\repos\\ceejster\\gkbinternational\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|c:\\users\\cjbow\\source\\repos\\ceejster\\gkbinternational\\views\\portfolio\\products\\electronics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|solutionrelative:views\\portfolio\\products\\electronics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|c:\\users\\cjbow\\source\\repos\\ceejster\\gkbinternational\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|solutionrelative:controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|c:\\users\\cjbow\\source\\repos\\ceejster\\gkbinternational\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|solutionrelative:views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|c:\\users\\cjbow\\source\\repos\\ceejster\\gkbinternational\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|c:\\users\\cjbow\\source\\repos\\ceejster\\gkbinternational\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|c:\\users\\cjbow\\source\\repos\\ceejster\\gkbinternational\\views\\portfolio\\products\\construction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|solutionrelative:views\\portfolio\\products\\construction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|c:\\users\\cjbow\\source\\repos\\ceejster\\gkbinternational\\views\\portfolio\\products\\rawmaterials.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|solutionrelative:views\\portfolio\\products\\rawmaterials.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|c:\\users\\cjbow\\source\\repos\\ceejster\\gkbinternational\\views\\portfolio\\products\\machinery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|solutionrelative:views\\portfolio\\products\\machinery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|c:\\users\\cjbow\\source\\repos\\ceejster\\gkbinternational\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47E49E6A-BF5F-4306-8A4F-0101FC96268F}|GKBInternational.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,38 +63,129 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "Controllers\\PortfolioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:51:38.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:40:42.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Construction.cshtml",
+              "DocumentMoniker": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Views\\Portfolio\\Products\\Construction.cshtml",
+              "RelativeDocumentMoniker": "Views\\Portfolio\\Products\\Construction.cshtml",
+              "ToolTip": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Views\\Portfolio\\Products\\Construction.cshtml",
+              "RelativeToolTip": "Views\\Portfolio\\Products\\Construction.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T08:50:04.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RawMaterials.cshtml",
+              "DocumentMoniker": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Views\\Portfolio\\Products\\RawMaterials.cshtml",
+              "RelativeDocumentMoniker": "Views\\Portfolio\\Products\\RawMaterials.cshtml",
+              "ToolTip": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Views\\Portfolio\\Products\\RawMaterials.cshtml",
+              "RelativeToolTip": "Views\\Portfolio\\Products\\RawMaterials.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T08:49:53.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Machinery.cshtml",
+              "DocumentMoniker": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Views\\Portfolio\\Products\\Machinery.cshtml",
+              "RelativeDocumentMoniker": "Views\\Portfolio\\Products\\Machinery.cshtml",
+              "ToolTip": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Views\\Portfolio\\Products\\Machinery.cshtml",
+              "RelativeToolTip": "Views\\Portfolio\\Products\\Machinery.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T08:49:39.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Electronics.cshtml",
+              "DocumentMoniker": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Views\\Portfolio\\Products\\Electronics.cshtml",
+              "RelativeDocumentMoniker": "Views\\Portfolio\\Products\\Electronics.cshtml",
+              "ToolTip": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Views\\Portfolio\\Products\\Electronics.cshtml",
+              "RelativeToolTip": "Views\\Portfolio\\Products\\Electronics.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T08:49:18.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Views\\Portfolio\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Portfolio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Views\\Portfolio\\Index.cshtml",
+              "RelativeToolTip": "Views\\Portfolio\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T07:52:05.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPAAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-13T08:28:37.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAAE4AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-13T08:02:35.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\CjBow\\source\\repos\\Ceejster\\GKBInternational\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAABUBAAAAAAAAAAAowEQBAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAOABAAAAAAAAAAAAAOUBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-01-13T08:55:03.397Z",
               "EditorCaption": ""

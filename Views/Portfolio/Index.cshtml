@@ -1,4 +1,65 @@
 ﻿@{
-    ViewData["Title"] = "Portfolio";
+    ViewData["Title"] = "Products";
 }
-<h1>Portfolio</h1>
+
+<!-- Product Range Header -->
+<section class="product-range-header">
+    <div class="container">
+        <h1>Product Range</h1>
+        <p class="lead">Our team of industry experts at GKB can help you discover the specific products you need to propel your business. Our infrastructure, network, and connections allow us to locate effectively for every industry.</p>
+        <p>From security, machinery to raw materials, our suppliers can develop and deliver. Browse some examples of the products we work in partnership with.</p>
+    </div>
+</section>
+
+<!-- Product Categories -->
+<section class="product-categories">
+    <div class="container">
+        <!-- Electronics -->
+        <div class="product-row">
+            <div class="product-image">
+                <img src="/assets/shippingContainers.jpg" alt="Electronics" class="img-fluid">
+            </div>
+            <div class="product-content">
+                <h2><span class="fontStyle">Electronics</span></h2>
+                <p>From consumer electronics to industrial components, we source high-quality products for your needs. Our suppliers are verified and reliable, ensuring you get the best products at competitive prices.</p>
+                <a asp-controller="Portfolio" asp-action="Electronics" class="btn portfolio-btn">Explore Electronics</a>
+            </div>
+        </div>
+
+        <!-- Machinery -->
+        <div class="product-row">
+            <div class="product-image">
+                <img src="/assets/shippingContainers.jpg" alt="Machinery" class="img-fluid">
+            </div>
+            <div class="product-content">
+                <h2><span class="fontStyle">Machinery</span></h2>
+                <p>Reliable and efficient machinery for manufacturing, construction, and more. We source from top manufacturers to ensure durability and performance.</p>
+                <a asp-controller="Portfolio" asp-action="Machinery" class="btn portfolio-btn">Explore Machinery</a>
+            </div>
+        </div>
+
+        <!-- Raw Materials -->
+        <div class="product-row">
+            <div class="product-image">
+                <img src="/assets/shippingContainers.jpg" alt="Raw Materials" class="img-fluid">
+            </div>
+            <div class="product-content">
+                <h2><span class="fontStyle">Raw Materials</span></h2>
+                <p>High-quality raw materials for industries like construction, manufacturing, and textiles. We ensure the materials meet your specifications and standards.</p>
+                <a asp-controller="Portfolio" asp-action="RawMaterials" class="btn portfolio-btn">Explore Raw Materials</a>
+            </div>
+        </div>
+
+        <!-- Construction -->
+        <div class="product-row">
+            <div class="product-image">
+                <img src="/assets/shippingContainers.jpg" alt="Construction" class="img-fluid">
+            </div>
+            <div class="product-content">
+                <h2><span class="fontStyle">Construction</span></h2>
+                <p>Durable and reliable construction materials and equipment for your projects. We source from trusted suppliers to ensure quality and safety.</p>
+                <a asp-controller="Portfolio" asp-action="Construction" class="btn portfolio-btn">Explore Construction</a>
+            </div>
+        </div>
+    </div>
+</section>
